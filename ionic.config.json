@@ -1,0 +1,7 @@
+{
+  "name": "massBuilders",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
